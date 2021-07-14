@@ -9,7 +9,7 @@ This document contains the following sections:
 4. **Hardening**: Proposed Alarms and Mitigation Strategies
 
 ## Network Topology
-![Network Topology] (/Diagrams/NetworkTopology.png)
+! [Network Topology](/Diagrams/NetworkTopology.png)
 
 ## Red Team: Security Assessment
 
